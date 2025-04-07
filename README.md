@@ -43,8 +43,8 @@ To run AI-SaaS locally, follow these steps:
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/ayusshrathore/ai-saas.git
-cd ai-saas
+git clone https://github.com/asadkai/IntelliServe.git
+cd IntelliServe
 ```
 
 2. **Install dependencies**:
